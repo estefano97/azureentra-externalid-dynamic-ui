@@ -1,0 +1,21 @@
+{
+  "name": "customize-otp-sender.api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "description": "API to customize OTP email sending in Azure Entra External ID by Estefano Chuquicusma :))",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

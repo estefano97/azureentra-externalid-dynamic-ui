@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "K6Atyop5p2aO2m2uZ0sy/YA0Ki8R5KfQSyGukgZHNnI=",
+  "Source": "backend-polimorfism-b2c",
+  "BasePath": "_content/backend-polimorfism-b2c",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|c:\\users\\kali_\\onedrive\\documentos\\azure-training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|solutionrelative:backend-polimorfism-b2c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|c:\\users\\kali_\\onedrive\\documentos\\azure-training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|solutionrelative:backend-polimorfism-b2c\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|c:\\users\\kali_\\onedrive\\documentos\\azure-training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|solutionrelative:backend-polimorfism-b2c\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|c:\\users\\kali_\\onedrive\\documentos\\azure-training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|solutionrelative:backend-polimorfism-b2c\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|c:\\users\\kali_\\onedrive\\documentos\\azure-training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA683C4B-F584-41A8-97B7-301FEA344E23}|backend-polimorfism-b2c\\backend-polimorfism-b2c.csproj|solutionrelative:backend-polimorfism-b2c\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend-polimorfism-b2c\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend-polimorfism-b2c\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:41:49.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backend-polimorfism-b2c\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\appsettings.Development.json",
+              "RelativeToolTip": "backend-polimorfism-b2c\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T03:26:56.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\appsettings.json",
+              "RelativeDocumentMoniker": "backend-polimorfism-b2c\\appsettings.json",
+              "ToolTip": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\appsettings.json",
+              "RelativeToolTip": "backend-polimorfism-b2c\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T03:26:55.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\Program.cs",
+              "RelativeDocumentMoniker": "backend-polimorfism-b2c\\Program.cs",
+              "ToolTip": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\Program.cs",
+              "RelativeToolTip": "backend-polimorfism-b2c\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:21:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "backend-polimorfism-b2c\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\kali_\\OneDrive\\Documentos\\Azure-Training\\azure-b2c\\backend-polimorfism-b2c\\backend-polimorfism-b2c\\WeatherForecast.cs",
+              "RelativeToolTip": "backend-polimorfism-b2c\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:21:30.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
