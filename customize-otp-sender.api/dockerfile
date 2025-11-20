@@ -1,0 +1,24 @@
+# Imagen base ligera
+FROM node:22-alpine
+
+# Directorio de trabajo dentro del contenedor
+WORKDIR /usr/src/app
+
+# Copiamos solo package.json/package-lock.json primero para aprovechar la cache
+COPY package*.json ./
+
+# Instalamos dependencias (solo producción)
+RUN npm install --omit=dev
+
+# Copiamos el resto del código
+COPY . .
+
+# Variables de entorno básicas (puedes sobreescribirlas al correr el contenedor)
+ENV NODE_ENV=production
+
+# El puerto donde escucha tu app
+EXPOSE 8080
+
+# Comando para ejecutar la app
+# Cambia "server.mjs" por el nombre real de tu archivo
+CMD ["node", "main.js"]

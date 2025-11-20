@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("054cb86b-9dbf-4c46-a3f6-827424e6009d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("backend-polimorfism-b2c")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20f74c2ec80da90da8e7d7d0b4445375aabf577")]
 [assembly: System.Reflection.AssemblyProductAttribute("backend-polimorfism-b2c")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backend-polimorfism-b2c")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
